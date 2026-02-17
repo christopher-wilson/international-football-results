@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "international-football-results",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "international_football_results",
+			"database_id": "83c6261d-5533-4f71-a465-3e5a068319d9"
+		}
+	]
+}
